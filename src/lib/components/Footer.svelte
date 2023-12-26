@@ -14,6 +14,15 @@
 			<li>
 				<a href="/">Home</a>
 			</li>
+			<li>
+				<a href="https://github.com/jonellwood" target="_blank">Github</a>
+			</li>
+			<li>
+				<a href="https://resume.jonellwood.dev" target="_blank">Resume</a>
+			</li>
+			<li>
+				<a href="https://projects.jonellwood.dev" target="_blank">Projects</a>
+			</li>
 		</ul>
 	</nav>
 

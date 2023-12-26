@@ -35,8 +35,8 @@ pes·ca·tar·i·an: a person who does not eat meat but does eat fish
 
 In what ways do I stray from the strict path?
 
-- I wear leather shoes & have leather car seats
-- I cook meat for my kids and give them milk
+- 〰️ I wear leather shoes & have leather car seats
+- 〰️ I cook meat for my kids and give them milk
 
 I simply choose not to eat meat or dairy and try like heck to avoid all other foods derived from animals. Yes this includes honey for the 🐝 's sake. I read labels religiously and do my best to eat food with as few ingredients as possible, ingredients I can pronounce, and I trust the &#9419; stamp on packaging.
 
@@ -52,14 +52,14 @@ Also, I don't eat yams.
 
 Nothing you read here should be considered advice on how to live. I am more than happy to share my experiences, thoughts, and feelings on this topic - but I am not, in any way, qualified to tell you how to live your life.
 
-> It is better to do one’s own dharma, even though imperfectly, than to do another’s dharma, even though perfectly
+> 💬 It is better to do one’s own dharma, even though imperfectly, than to do another’s dharma, even though perfectly
 
-Bhagavad Gita: Chapter 18, Verse 47
+<b><i>Bhagavad Gita: Chapter 18, Verse 47</i></b>
 
-## What you might see on this blog page
+## What you might see on this blog page:
 
-- random thoughts, sometimes silly, that I felt like sharing
-- typos. guaranteed.
-- posts about meals I enjoyed (or did not as the case may be)
-- specific information about a product maybe
-  - I assure you no one is sponsoring me or this blog - but if the day ever comes that company sends me something free to test out in exchange for a review - you can bet your sweet patootie it will be plain as day in said review.
+- 💭 random thoughts, sometimes silly, that I felt like sharing
+- 👁 typos. guaranteed.
+- 🍲 posts about meals I enjoyed (or did not as the case may be)
+- ℹ️ specific information about a product maybe
+  - 🔲 I assure you no one is sponsoring me or this blog - but if the day ever comes that company sends me something free to test out in exchange for a review - you can bet your sweet patootie it will be plain as day in said review.

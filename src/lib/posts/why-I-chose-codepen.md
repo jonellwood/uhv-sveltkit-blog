@@ -94,9 +94,9 @@ While out for a run one day my mind wandered as it is prone to do during the two
 
 When I am stuck on something, or I have an idea in my head that is not fully matured, or I have a concept, but I am not 100% sure where it needs to go - I head straight to CodePen and look for ideas. And yes, I have lost half a day browsing through pens and seeing all the amazing ways other people have solved a similar issue ... _and probably 20 other cools things as well_ ... I always find the creativity inspiring. And that, at the end of the day, was the deciding factor for me.
 
-<mark>While Copilot could give me code, it never sparked any ideas. It could suggest ways to accomplish what I _thought_ I wanted - but on many an occasion, CodePen has taken a spark of an idea and ignited it into a full-fledged feature.</mark>
+<mark>While Copilot could give me code, it never sparked any ideas. It could suggest ways to accomplish what I <b><i>thought</i></b> I wanted - but on many an occasion, CodePen has taken a spark of an idea and ignited it into a full-fledged feature.</mark>
 
-> CodePen is where I go to get inspired.
+💬 CodePen is where I go to get inspired.
 
 <cite>- Me</cite>
 

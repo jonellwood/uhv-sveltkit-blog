@@ -1,10 +1,23 @@
 <script>
 	export let library = [];
+	import { format, isWithinInterval, addDays } from 'date-fns';
+
+	function isJustAdded(addedDate) {
+		const today = new Date();
+		const dateToCheck = new Date(addedDate);
+
+		const within14Days = isWithinInterval(dateToCheck, { start: addDays(today, -14), end: today });
+
+		return within14Days;
+	}
 </script>
 
 <div class="bookshelf">
 	{#each library as book (book.index)}
 		<div class="book">
+			{#if isJustAdded(book['added-date'])}
+				<span class="just-added-badge">Just added</span>
+			{/if}
 			<a class="cover" href={book.href}>
 				<img src={book.img} alt={book.title} />
 			</a>
@@ -42,7 +55,7 @@
 		/* height: max-content; */
 	}
 	.cover img {
-		width: 180px;
+		/* width: 180px; */
 		height: auto;
 		margin-left: auto;
 		margin-right: auto;
@@ -69,5 +82,21 @@
 		font-size: 0.55em;
 		/* position: absolute; */
 		/* bottom: 0; */
+	}
+	.just-added-badge {
+		display: block;
+		position: absolute;
+		background-color: #4caf50;
+		color: white;
+		padding: 0.2em 0.5em;
+		border-radius: 3px;
+		font-size: 0.8em;
+		margin-right: 0.5em;
+		transform: rotate(-20deg);
+		margin-top: -435px;
+		z-index: 2;
+	}
+	.just-added-badge:hover {
+		opacity: 0.2;
 	}
 </style>

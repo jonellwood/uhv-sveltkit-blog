@@ -26,7 +26,7 @@ It's good. So good!
 - The texture is very close to actual ground beef. My wife (_not a vegan at all_) tried it and commented on how close the texture was to actual beef.
 - Like beef, the flavor pallet options are bountiful. I used a Trader Joes Taco Seasoning for this go 'round - but set some aside and tried it with just salt and pepper and it was great. I believe this could be used in most any recipe in place of beef.
 - Much like the other plant based meat replacements I have experienced - one overwhelming difference between this and beef is the lack of grease.
-  - Not putting that grease into my body has had numerous benefits thus far (see my post on <a href="../my-poop-post">poops</a>).
+  - Not putting that grease into my body has had numerous benefits thus far (see my post on <a href="/blog/my-poop-post">poops</a>).
   - Kitchen clean up and dishes is far easier. Without all that grease splatter I am saving money on Dawn dish soap!
 - [Cooking](#cooking) this product is a joyful breeze!
 
@@ -75,7 +75,7 @@ This information is from [Trader Joe's](https://www.traderjoes.com/home/products
 
 Taco with Trader Joe's Meatless Ground, Violife Shredded Cheese, and flour tortilla.
 
-![Taco with Cheese](/assets/tj-tacos-1.jpeg)
-![Taco with Cheese](/assets/tj-tacos-2.jpeg)
+![Taco with Cheese](/images/tj-tacos-1.jpeg)
+![Taco with Cheese](/images/tj-tacos-2.jpeg)
 
 <sub>Photos were taken by this author</sub>

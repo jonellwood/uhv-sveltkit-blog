@@ -12,8 +12,16 @@
 
 <h1>Playlists</h1>
 
-<Playlist playlist={data.Running} listName="Time to Run with Scott" />
-<Playlist playlist={data.Chilling} listName="Decreasing my 5K Run Time" />
+<Playlist
+	playlist={data.Running}
+	listName="Time to Run with Scott"
+	listDesc="From Apple+ Workouts"
+/>
+<Playlist
+	playlist={data.Chilling}
+	listName="Decreasing my 5K Run Time"
+	listDesc="I play this on repeat"
+/>
 
 <Callout
 	>I do not own any of this music...nor the rights to it.... other disclaimers here that will keep

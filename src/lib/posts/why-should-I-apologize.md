@@ -4,7 +4,7 @@ date: '2023-09-04'
 updated: '2023-09-04'
 categories:
   - 'introspection'
-coverImage: '/images/introspection.jpg'
+coverImage: 'https://images.unsplash.com/photo-1484589065579-248aad0d8b13?q=80&w=1518&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 coverWidth: 16
 coverHeight: 9
 excerpt: Why do we apologize?

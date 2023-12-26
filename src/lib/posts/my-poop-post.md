@@ -4,7 +4,7 @@ date: '2023-08-24'
 updated: '2023-08-24'
 categories:
   - 'poops'
-coverImage: '/images/jerry-zhang-ePpaQC2c1xA-unsplash.jpg'
+coverImage: 'https://images.unsplash.com/photo-1575839215095-e2700ade45c5?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2Fsa2luZyUyMGludG8lMjB0aGUlMjBsaWdodHxlbnwwfHwwfHx8MA%3D%3D'
 coverWidth: 16
 coverHeight: 9
 excerpt: 'The unexpected benefit of cutting meat and dairy out of my diet on my gut health.'
@@ -54,6 +54,6 @@ Seriously, I was _not_ prepared for the amount of gas my stomach started produci
 
 I work in an open office area with open cubicles. It is mostly developers or server admins and we are a very quiet bunch. With that in mind I usually like to go for a quick 10 minute walk a few times a day. A few laps around the building certainly is not bad for my overall health, but also a much needed time to release some built up pressure.
 
-<img src="/assets/nuke.svg" alt="explosion" />
+<img src="/images/nuke.svg" alt="explosion" />
 
 If you see me outside walking, wave at me. When I wave back, know there is a good chance I am farting while I do it. 😈
