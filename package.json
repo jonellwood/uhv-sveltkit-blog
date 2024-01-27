@@ -9,6 +9,7 @@
 		"format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
 	},
 	"devDependencies": {
+		"@ernane/svelte-star-rating": "^1.1.5",
 		"@sveltejs/adapter-netlify": "^3.0.0",
 		"@sveltejs/adapter-static": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",

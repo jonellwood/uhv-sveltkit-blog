@@ -6,7 +6,7 @@
  **/
 
 export const siteTitle = 'The Unhealthy Vegan';
-export const siteDescription = 'Built with the SvelteKit Static Blog Starter';
+export const siteDescription = 'Built with the SvelteKit';
 export const siteURL = 'https://theunhealthyvegan.com';
 export const siteLink = 'https://theunhealthyvegan.com';
 export const siteAuthor = 'Jon Ellwood';
